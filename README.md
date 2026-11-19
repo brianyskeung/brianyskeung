@@ -1,6 +1,6 @@
 # Hey, I'm Brian 
 
-CS & Stats @ UBC ('29). Interested in data, software and finance. 
+CS & Stats @ UBC ('29). Interested in software, data and finance. 
 Feel free to reach out to me:
 
 [LinkedIn](https://www.linkedin.com/in/briankeung/) • [Website](https://keung.dev/) • [Email](mailto:brianyskeung@gmail.com)
